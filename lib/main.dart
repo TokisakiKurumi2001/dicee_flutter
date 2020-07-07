@@ -26,14 +26,10 @@ class DicePage extends StatelessWidget {
           // Expanded promise to make thing expand its space.
           // Expanded have `flex` attribute, ratio of expanded space.
           Expanded(
-            child: Image(
-              image: AssetImage('images/dice1.png'),
-            ),
+            child: Image.asset('images/dice1.png'),
           ),
           Expanded(
-              child: Image(
-                image: AssetImage('images/dice2.png'),
-              ),
+            child: Image.asset('images/dice2.png'),
           ),
         ],
       ),

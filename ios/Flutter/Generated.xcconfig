@@ -9,3 +9,4 @@ FLUTTER_FRAMEWORK_DIR=/Users/leminhkhoi/Works/flutter/bin/cache/artifacts/engine
 FLUTTER_BUILD_NAME=1.0.0
 FLUTTER_BUILD_NUMBER=1
 TRACK_WIDGET_CREATION=true
+DART_DEFINES=flutter.inspector.structuredErrors=true
